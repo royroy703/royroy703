@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Arquitectura de Plataformas y Servicios de TI<br>Ingeniería de Sistemas e Informática<br>⌘ OpenCode <br>./ </> { } []
 
 
@@ -11,11 +11,5 @@ Arquitectura de Plataformas y Servicios de TI<br>Ingeniería de Sistemas e Infor
 ![](https://github-readme-stats.shion.dev/api?username=royroy703&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=royroy703&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=royroy703&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=royroy703&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=royroy703&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
