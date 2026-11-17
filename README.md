@@ -10,6 +10,5 @@ Arquitectura de Plataformas y Servicios de TI<br>Ingeniería de Sistemas e Infor
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=royroy703&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=royroy703&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=royroy703&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
