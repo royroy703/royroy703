@@ -7,7 +7,7 @@
   ./ &lt;/&gt; { } []
 </p>
 
-<h1>💻 Tech Stack:</h1>
+<h1> Tech Stack:</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
